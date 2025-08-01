@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Priyanka Donthireddy
 
-<!--
-**pdonthireddy45/pdonthireddy45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I'm passionate about software development, open-source, and building impactful projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am a software developer who loves coding and learning new technologies.
+- 🌱 Currently exploring: Full-Stack Development and AI/ML.
+- 📫 How to reach me: [your-email@example.com](mailto:ldonthireddy45@gmail.com)
+
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 📂 Featured Projects
+
+- [Awesome Project 1](https://github.com/pdonthireddy45/awesome-project-1)  
+  _Short description of what this project does and why it's awesome._
+
+- [Cool App](https://github.com/pdonthireddy45/cool-app)  
+  _Another project with a brief description._
+
+- [Machine Learning Fun](https://github.com/pdonthireddy45/ml-fun)  
+  _Description about your ML project or notebook._
+
+## 📊 GitHub Stats
+
+![pdonthireddy45's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdonthireddy45&show_icons=true&theme=radical)
+
+---
+
+_Thank you for visiting my profile! Let's connect and build something amazing together!_
