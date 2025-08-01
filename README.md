@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm passionate about software development, open-
 
 - 💻 I am a software developer who loves coding and learning new technologies.
 - 🌱 Currently exploring: Full-Stack Development and AI/ML.
-- 📫 How to reach me: [your-email@example.com](mailto:ldonthireddy45@gmail.com)
+- 📫 How to reach me: [ldonthireddy45@gmail.com](mailto:ldonthireddy45@gmail.com)
 
 ## 🛠️ Skills & Tools
 
